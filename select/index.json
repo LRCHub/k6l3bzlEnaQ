@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Moment",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:26:46.064730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From This Moment On",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/01_From_This_Moment_On_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living In A Moment",
+      "artist": "Ty Herndon",
+      "has_synced": false,
+      "path": "select/02_Living_In_A_Moment_Ty_Herndon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Living In A Moment",
+      "artist": "Ty Herndon",
+      "has_synced": true,
+      "path": "select/03_Living_In_A_Moment_Ty_Herndon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost In This Moment",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/04_Lost_In_This_Moment_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not A Moment Too Soon",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/05_Not_A_Moment_Too_Soon_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tender Moment",
+      "artist": "Lee Roy Parnell",
+      "has_synced": true,
+      "path": "select/06_Tender_Moment_Lee_Roy_Parnell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That Moment Is Over",
+      "artist": "蘇打綠",
+      "has_synced": false,
+      "path": "select/07_That_Moment_Is_Over_蘇打綠.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That Moment Is Over",
+      "artist": "苏打绿",
+      "has_synced": false,
+      "path": "select/08_That_Moment_Is_Over_苏打绿.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "最寂寞的时候 (Lonely Moment)",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/09_最寂寞的时候_(Lonely_Moment)_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heat Of The Moment",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_Heat_Of_The_Moment_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spur of the Moment",
+      "artist": "Ludacris feat. DJ Quik & Kimmi J.",
+      "has_synced": true,
+      "path": "select/11_Spur_of_the_Moment_Ludacris_feat._DJ_Quik_&_Kimmi_J..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spur of the Moment (feat. DJ Quik and Kimmi J.)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/12_Spur_of_the_Moment_(feat._DJ_Quik_and_Kimmi_J.)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moment 4 Life",
+      "artist": "Nicki Minaj feat. Drake",
+      "has_synced": true,
+      "path": "select/13_Moment_4_Life_Nicki_Minaj_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moment 4 Life (Ft. Drake)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/14_Moment_4_Life_(Ft._Drake)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moment 4 Life (feat. Drake)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/15_Moment_4_Life_(feat._Drake)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sing For The Moment",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/16_Sing_For_The_Moment_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moment",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Moment_BE_FIRST.txt"
+    }
+  ]
+}
